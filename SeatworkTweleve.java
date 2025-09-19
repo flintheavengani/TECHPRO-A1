@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SeatworkTwelve {
+public class SeatworkTweleve {
 
         // Method to display account balance
             public static void checkBalance(int[] balances, int accountNumber) {
