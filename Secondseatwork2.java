@@ -1,3 +1,4 @@
+Secondseatwork2 {
 class Vehicle {
         protected String brand = "Ford";
             public void honk() {
@@ -12,4 +13,5 @@ class Vehicle {
                                                         System.out.println(myFastCar.brand + " " + myFastCar.modelName);
                                                             }
                                                             }
+                                                        }
 
