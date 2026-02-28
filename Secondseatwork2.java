@@ -1,4 +1,4 @@
-Secondseatwork2 {
+Secondsemseatwork2 {
 class Vehicle {
         protected String brand = "Ford";
             public void honk() {
